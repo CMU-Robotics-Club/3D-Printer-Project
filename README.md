@@ -2,4 +2,6 @@
 
 ### About
 
-This open-source toolchanging coreXY 3D printer is designed to be a cutting-edge testbed for 3D printing technology.
+VLWAM is so peak oh my god guys you're gonna love it
+
+This repo contains the code and design tools for this project. 
